@@ -5,7 +5,7 @@ import path from "path";
 export default defineConfig({
   base: "/aquapro/",
   server: {
-    open: true,
+    host: "::",
     port: 8080,
   },
   plugins: [

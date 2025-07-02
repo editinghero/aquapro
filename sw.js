@@ -1,10 +1,10 @@
 
 const CACHE_NAME = 'aquapro-v1';
 const urlsToCache = [
-  '/',
-  '/static/js/bundle.js',
-  '/static/css/main.css',
-  '/favicon.svg'
+  '/aquapro/',
+  '/aquapro/static/js/bundle.js',
+  '/aquapro/static/css/main.css',
+  '/aquapro/favicon.svg'
 ];
 
 self.addEventListener('install', (event) => {

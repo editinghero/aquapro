@@ -3,7 +3,7 @@
   "name": "AquaPro - Premium Water Bottles",
   "short_name": "AquaPro",
   "description": "Premium copper-infused water bottles designed for the discerning individual",
-  "start_url": "/",
+  "start_url": "/aquapro/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff8c00",
